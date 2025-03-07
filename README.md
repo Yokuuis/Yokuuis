@@ -62,11 +62,7 @@ kipaert is death !!
 |:------:|
 ![](https://github-readme-stats.vercel.app/api?username=Yokuuis&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Yokuuis&theme=midnight-purple&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yokuuis&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-| Stars | Top Languages |
-|:------:|:-------------:|
-| ![Stars](https://github-readme-stats.vercel.app/api?username=davidmartinez&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=GitHub%20Stats&disable_animations=true&theme=algolia) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidmartinez&langs_count=8&theme=algolia&layout=compact) |
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yokuuis&langs_count=8&theme=algolia&layout=compact)<br/>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Yokuuis&theme=discord&no-frame=false&no-bg=false&margin-w=4)
