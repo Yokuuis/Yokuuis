@@ -57,9 +57,7 @@ kipaert is death !!
     <a href="https://github.com/Yokuuis"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white"></a>
 </p>
 
-## 📊 GitHub Stats
-| Stats |
-|:------:|
+## 📊 Stats
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yokuuis&langs_count=8&theme=algolia&layout=compact)<br/>
 
 
