@@ -1,5 +1,5 @@
 <h1 align="center">
-Hi, I'm Jared! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+Hi, I'm Meelh! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 </h1>
 <br/>
 
@@ -12,16 +12,16 @@ Hi, I'm Jared! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.
 <hr>
 
 ```
-kipaert is death !!
+meelh is death !!
 -------------------------
 💻 I am trying to become a Full Stack Developer
 📚 Trying to study a Bachelor's in Computer Systems Engineering
 📝 Strong interest in Computer Systems Engineering, Data Science, Artificial Intelligence, and Startups
 🔭 Working on applications & Web Development
 🌱 Learning about Computer Vision and Deep Learning
-🌟 Main languages: C++, Java, and Php
+🌟 Main languages: C++, and Java
 🚀 Passionate about programming and videogames
-🎵 Enjoys music !!
+🎵 Enjoyer music !!
 ```
 <hr>
 
