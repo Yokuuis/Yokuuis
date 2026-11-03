@@ -10,7 +10,7 @@ Hello, I'm Jared Andrade! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4
 </p>
 <hr>
 
-18yo CS Student @ BUAP
+17yo CS Student @ BUAP
 
 hardworking honor student, recognized among the best and brightest
 
